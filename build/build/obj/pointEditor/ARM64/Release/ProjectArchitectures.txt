@@ -1,0 +1,1 @@
+D:\postgraduate\researchsection\AR\project\HoloLensReceive\build\pointEditor\pointEditor.vcxproj;arm64

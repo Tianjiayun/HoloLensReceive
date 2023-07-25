@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+D:\postgraduate\researchsection\AR\project\HoloLensReceive\build\pointEditor\App.cpp(26,41): warning C4973: “Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set”: 标记为弃用
+D:\postgraduate\researchsection\AR\project\HoloLensReceive\build\pointEditor\App.cpp(26,41): message : 消息: “Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.”
+  正在生成代码
+  已完成代码的生成
+  pointEditor.vcxproj -> D:\postgraduate\researchsection\AR\project\HoloLensReceive\build\build\bin\ARM64\Release\pointEditor.exe
